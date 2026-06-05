@@ -141,11 +141,12 @@ def example_6_result_analysis():
 
 if __name__ == "__main__":
     print("\n")
-    print("╔" + "═" * 78 + "╗")
-    print("║" + " " * 78 + "║")
-    print("║" + "ProfileScout - Quick Start Examples".center(78) + "║")
-    print("║" + " " * 78 + "║")
-    print("╚" + "═" * 78 + "╝")
+    print("╔════════════════════════════════════════════════════════════╗")
+    print("     ║                    P R O F I L E S C O U T                 ║")
+    print("     ║          OSINT Username & Alias Reconnaissance Tool        ║")
+    print("     ║                  Security Analysis Platform                ║")
+    print("     ║               Developed by: Abdul Rehman Akram             ║")
+    print("╚════════════════════════════════════════════════════════════╝")
     print("\nChoose an example to run:")
     print("  1. Basic scan")
     print("  2. Custom timeout settings")
