@@ -1,10 +1,9 @@
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                  🎉 PROFILESCOUT - PROJECT COMPLETE 🎉                     ║
-║                                                                              ║
-║           Professional OSINT Reconnaissance Tool - READY TO USE              ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                    P R O F I L E S C O U T                 ║
+║          OSINT Username & Alias Reconnaissance Tool        ║
+║                  Security Analysis Platform                ║
+║               Developed by: Abdul Rehman Akram             ║
+╚════════════════════════════════════════════════════════════╝
 
 ✅ DELIVERY STATUS: 100% COMPLETE
 

@@ -68,11 +68,12 @@ python3 profilescout.py
 ```
 $ python3 profilescout.py
 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                           P R O F I L E S C O U T                            ║
-║                   OSINT Username & Alias Reconnaissance Tool                 ║
-║                         Security Analysis Platform                           ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                    P R O F I L E S C O U T                 ║
+║          OSINT Username & Alias Reconnaissance Tool        ║
+║                  Security Analysis Platform                ║
+║               Developed by: Abdul Rehman Akram             ║
+╚════════════════════════════════════════════════════════════╝
 
 [?] Enter username/alias to scan: john_developer
 

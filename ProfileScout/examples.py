@@ -140,13 +140,16 @@ def example_6_result_analysis():
 
 
 if __name__ == "__main__":
-    print("\n")
-    print("╔════════════════════════════════════════════════════════════╗")
-    print("     ║                    P R O F I L E S C O U T                 ║")
-    print("     ║          OSINT Username & Alias Reconnaissance Tool        ║")
-    print("     ║                  Security Analysis Platform                ║")
-    print("     ║               Developed by: Abdul Rehman Akram             ║")
-    print("╚════════════════════════════════════════════════════════════╝")
+    from colorama import init, Fore, Style
+    init(autoreset=True)
+    
+    print()
+    print(f"{Fore.CYAN}╔════════════════════════════════════════════════════════════╗{Style.RESET_ALL}")
+    print(f"{Fore.CYAN}║{Style.RESET_ALL}                    {Fore.BRIGHT}{Fore.CYAN}P R O F I L E S C O U T{Style.RESET_ALL}                 {Fore.CYAN}║{Style.RESET_ALL}")
+    print(f"{Fore.CYAN}║{Style.RESET_ALL}          {Fore.BRIGHT}{Fore.MAGENTA}OSINT Username & Alias Reconnaissance Tool{Style.RESET_ALL}        {Fore.CYAN}║{Style.RESET_ALL}")
+    print(f"{Fore.CYAN}║{Style.RESET_ALL}                  {Fore.BRIGHT}{Fore.YELLOW}Security Analysis Platform{Style.RESET_ALL}                {Fore.CYAN}║{Style.RESET_ALL}")
+    print(f"{Fore.CYAN}║{Style.RESET_ALL}               {Fore.BRIGHT}{Fore.GREEN}Developed by: Abdul Rehman Akram{Style.RESET_ALL}             {Fore.CYAN}║{Style.RESET_ALL}")
+    print(f"{Fore.CYAN}╚════════════════════════════════════════════════════════════╝{Style.RESET_ALL}")
     print("\nChoose an example to run:")
     print("  1. Basic scan")
     print("  2. Custom timeout settings")

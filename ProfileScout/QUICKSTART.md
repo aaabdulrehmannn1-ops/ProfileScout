@@ -14,6 +14,13 @@ python3 profilescout.py
 
 ### Step 3: Enter a Username
 ```
+╔════════════════════════════════════════════════════════════╗
+║                    P R O F I L E S C O U T                 ║
+║          OSINT Username & Alias Reconnaissance Tool        ║
+║                  Security Analysis Platform                ║
+║               Developed by: Abdul Rehman Akram             ║
+╚════════════════════════════════════════════════════════════╝
+
 [?] Enter username/alias to scan: john_developer
 ```
 

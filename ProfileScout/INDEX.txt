@@ -1,11 +1,9 @@
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                    P R O F I L E S C O U T  v1.0                            ║
-║              OSINT Username & Alias Reconnaissance Tool                      ║
-║                                                                              ║
-║         Complete, Production-Ready Security Analysis Platform               ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                    P R O F I L E S C O U T                 ║
+║          OSINT Username & Alias Reconnaissance Tool        ║
+║                  Security Analysis Platform                ║
+║               Developed by: Abdul Rehman Akram             ║
+╚════════════════════════════════════════════════════════════╝
 
 🎯 PROJECT SUMMARY
 ═════════════════════════════════════════════════════════════════════════════════
